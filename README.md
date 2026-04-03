@@ -11,4 +11,4 @@ Very slow as the rendering code is unoptomized.
 
 The crates are the boxes with the 
 
-<a href="https://github.com/immphamous/TUI-Building/blob/main/game%20example.png?raw=true"><img src="https://github.com/immphamous/TUI-Building/blob/main/game%20example.png?raw=true" align="left" height="48" width="48" ></a>
+<a href="https://github.com/immphamous/TUI-Building/blob/main/game%20example.png?raw=true"><img src="https://github.com/immphamous/TUI-Building/blob/main/game%20example.png?raw=true" align="left" height="512px" ></a>
